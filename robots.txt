@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://jddominicanfarm.com/sitemap.xml
