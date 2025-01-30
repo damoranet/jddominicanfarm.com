@@ -259,7 +259,7 @@
         <div class="footer-copyright">
             <div class="col-lg-12">
                 <div class="copyright-text text-center">
-                    <p>&copy; 2024 JD Dominicam Farm - Moca <br>ver.20241225</p>
+                    <p>&copy; 2024 JD Dominicam Farm - Moca <br>ver.20250131</p>
                 </div>
             </div>
         </div>
