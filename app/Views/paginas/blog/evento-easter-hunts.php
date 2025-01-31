@@ -19,7 +19,7 @@ $this->extend('plantilla/layout');
             url(<?php echo base_url() ?>assets-farm/images/bg/espacio-familiar-granja-en-moca-1440x520.jpg);">
     <div class="brand-card text-center">
         <img src="<?php echo base_url() ?>assets-farm/images/icon/aves-granja-dominican-farm.png" alt="evento huevos de pascua">
-        <h4><a href="#"> Más Información</a></h4>
+        <h4><a href="#informacion">Más Información</a></h4>
     </div>
     <div class="container">
         <div class="row">
@@ -47,7 +47,7 @@ $this->extend('plantilla/layout');
                                 alt="Blog Image">
                         </div>
                         <div class="post-content">
-                            <div class="entry-content">
+                            <div id="informacion" class="entry-content">
                                 <a href="#" class="cat-btn">Easter Egg Hunt</a>
                                 <h2 class="title">Búsqueda de huevos de Pascua</h2>
                                 <div class="post-meta">
