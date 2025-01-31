@@ -127,9 +127,9 @@
                             <div class="call-button">
                                 <span><i class="far fa-phone"></i><a href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
-                            <!--<div class="menu-button">
-                                    <a href="<?php echo base_url() . 'carrito' ?>" class="main-btn btn-yellow">Entradas</a>
-                                </div>-->
+                            <div class="menu-button">
+                                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" class="main-btn btn-yellow">Entradas</a>
+                                </div>
                             <div class="navbar-toggler">
                                 <span></span>
                                 <span></span>

@@ -42,7 +42,7 @@ $this->extend('plantilla/layout');
                 <div class="about-content-box content-box-gap mb-50">
                     <div class="section-title section-title-left wow fadeInUp mb-30">
                         <span class="sub-title">Quiénes somos</span>
-                        <h2>Granja educativa y familiar</h2>
+                        <h2>Una Granja Familiar y Educativa</h2>
                     </div>
                     <p>Nos enorgullece ofrecer un ambiente cómodo,
                         seguro, saludable y divertido para los niños, animales y demás visitantes.
@@ -87,7 +87,7 @@ $this->extend('plantilla/layout');
                     <img src="<?php echo base_url() ?>assets-farm/images/about/quienes-somos-granja-para-adultos-y-niños.jpg"
                         class="about-img_one" alt="granja-familiar-jd-dominican-farm">
                     <img src="<?php echo base_url() ?>assets-farm/images/about/granja-para-niños-en-republica-dominicana-360x355.jpg"
-                        class="about-img_two" alt="granja familiar">
+                        class="about-img_two" alt="">
                 </div>
             </div>
         </div>
@@ -114,19 +114,19 @@ $this->extend('plantilla/layout');
                         </div>
                         <div class="member-info">
                             <h3 class="title"><a href="farmers.html">Jornet</a></h3>
-                            <p class="position"></p>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="team-member_one text-center mb-40 wow fadeInDown">
                         <div class="member-img">
-                            <img src="<?php echo base_url() ?>assets-farm/images/team/senora-1-175x233.jpg"
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/chica-2-175x233.jpg"
                                 alt="emplado de JD Dominican Farm">
                         </div>
                         <div class="member-info">
-                            <h3 class="title"><a href="farmers.html">Awilda</a></h3>
-                            <p class="position"></p>
+                            <h3 class="title"><a href="farmers.html">Mabel</a></h3>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@ $this->extend('plantilla/layout');
                         </div>
                         <div class="member-info">
                             <h3 class="title"><a href="farmers.html">Pavel</a></h3>
-                            <p class="position"></p>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@ $this->extend('plantilla/layout');
                         </div>
                         <div class="member-info">
                             <h3 class="title"><a href="farmers.html">Milka</a></h3>
-                            <p class="position"></p>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
@@ -160,12 +160,12 @@ $this->extend('plantilla/layout');
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="team-member_one text-center mb-40 wow fadeInUp">
                         <div class="member-img">
-                            <img src="<?php echo base_url() ?>assets-farm/images/team/chico-2-175x233.jpg"
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/chica-4-175x233.jpg"
                                 alt="emplado de JD Dominican Farm">
                         </div>
                         <div class="member-info">
-                            <h3 class="title"><a href="farmers.html">Enmanuel</a></h3>
-                            <p class="position"></p>
+                            <h3 class="title"><a href="farmers.html">Julia</a></h3>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
@@ -177,31 +177,82 @@ $this->extend('plantilla/layout');
                         </div>
                         <div class="member-info">
                             <h3 class="title"><a href="farmers.html">Esmerlin</a></h3>
-                            <p class="position"></p>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="team-member_one text-center mb-40 wow fadeInUp">
                         <div class="member-img">
-                            <img src="<?php echo base_url() ?>assets-farm/images/team/chica-6-175x233.jpg"
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/senora-1-175x233.jpg"
                                 alt="emplado de JD Dominican Farm">
                         </div>
                         <div class="member-info">
-                            <h3 class="title"><a href="farmers.html">María Estrella</a></h3>
-                            <p class="position"></p>
+                            <h3 class="title"><a href="farmers.html">Awilda</a></h3>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="team-member_one text-center mb-40 wow fadeInUp">
+                        <div class="member-img">
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/chica-3-175x233.jpg"
+                                alt="emplado de JD Dominican Farm">
+                        </div>
+                        <div class="member-info">
+                            <h3 class="title"><a href="farmers.html">María</a></h3>
+                            <p class="position">...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- empleados fila #3 -->
+            <div class="row justify-content-center">
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-member_one text-center mb-40 wow fadeInUp">
+                        <div class="member-img">
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/chico-2-175x233.jpg"
+                                alt="emplado de JD Dominican Farm">
+                        </div>
+                        <div class="member-info">
+                            <h3 class="title"><a href="farmers.html">Enmanuel</a></h3>
+                            <p class="position">...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-member_one text-center mb-40 wow fadeInDown">
                         <div class="member-img">
                             <img src="<?php echo base_url() ?>assets-farm/images/team/senor-1-175x233.jpg"
                                 alt="emplado de JD Dominican Farm">
                         </div>
                         <div class="member-info">
                             <h3 class="title"><a href="farmers.html">Pedro</a></h3>
-                            <p class="position"></p>
+                            <p class="position">...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-member_one text-center mb-40 wow fadeInUp">
+                        <div class="member-img">
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/jovencito-2-175x233.jpg"
+                                alt="emplado de JD Dominican Farm">
+                        </div>
+                        <div class="member-info">
+                            <h3 class="title"><a href="farmers.html">Axiel</a></h3>
+                            <p class="position">...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-member_one text-center mb-40 wow fadeInDown">
+                        <div class="member-img">
+                            <img src="<?php echo base_url() ?>assets-farm/images/team/chica-6-175x233.jpg"
+                                alt="emplado de JD Dominican Farm">
+                        </div>
+                        <div class="member-info">
+                            <h3 class="title"><a href="farmers.html">María Estrella</a></h3>
+                            <p class="position">...</p>
                         </div>
                     </div>
                 </div>

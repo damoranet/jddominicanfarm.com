@@ -37,28 +37,25 @@ $this->extend('plantilla/layout');
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="section-title section-title-left mb-50 wow fadeInLeft">
-                    <span class="sub-title">JD Dominican Farm </span>
-                    <h2>Aves exóticas y animales de granja</h2>
+                    <span class="sub-title">jD Dominican Farm </span>
+                    <h2>Contamos con una gran variedad de Animales de granja y Aves exóticas</h2>
                 </div>
             </div>
             <div class="col-lg-6 mb-50">
-                <h3 class="wow fadeInRight">Descubre la diversidad que nos hace único</h3>
+                <h3 class="wow fadeInRight">Aquí podrás encontrar:</h3>
                 <div class="pt-20">
-                    <li>Alpacas, mini zebú, cerditos miniatura</li>
-                    <li>Una gran <strong>variedad de especies</strong> de gallinas ornamentales llenas de color y singularidad</li>
-                    <li>Variedad de exclusivas de codornices</li>
-                    <li>Faisanes exóticos de una belleza incomparable </li>
-                    <li>Pavos reales en muchas de sus variedades impresionante que te dejarán maravillado</li>
-                    <li>Menúes, las segundas aves más grandes del mundo después del avestruz (Avestruz el ave más grande que existe)</li>
-                    <li>Ñandúes o Rheas Americanas, aves parecidas a los Emúes. </li>
-                    <li>Además, contamos con un voladero de aves de pico duro, hogar de: Guacamayos en diversas variedades,
-                      cotorra amazónica, Agapornis en diversos tonos, periquitos del amor, Ring- necks, cacatúas y alondras. </li>
-                      <p>¡Pero eso no es todo! En nuestra granja también encontrarás:</p>
-                      <li>Cabras enanas</li>
-                      <li>Patos y gansos</li>
-                      <li>Conejos: Hurón alvino y cobayas</li>
-                      <p>Y por supuesto, los <strong>favoritos de los más pequeños</strong>, nuestros adorables <strong>ponies y mini horses</strong> ¡ideales para crear recuerdos inolvidables!.</p>
-                      <p><em>Ven y vive esta experiencia única en JD Dominican Farm.</em></p>
+                    <li>Más de 20 especies de <strong>gallinas</strong> ornamentales</li>
+                    <li>Diversas variedades de <strong>codornices</strong> (muy pocos comunes en el país)</li>
+                    <li>Una gran variedad de <strong>faisanes</strong> exóticos</li>
+                    <li><strong>Pavos reales</strong> en 6 diferentes variantes</li>
+                    <li>Contamos con <strong>emúes</strong>, estos son las segundas aves más grandes despúes del avestruz
+                        del avestruz.</li>
+                    <li>Tenemos un voladero con aves de pico duro, en este encontrarás<strong> agapornis</strong> con sus diferentes
+                        tonalidades, <strong>periquitos</strong> del amor, <strong>ring-necks</strong>,<strong>cacatúas<strong> y </strong>alondras</strong>. </li>
+                    <li>En la granja contamos también con <stron>cabras enanas</strong>, <strong>patos</strong>, <strong>gansos</strong> y
+                            <strong>conejos</strong> que te aseguramos que ¡no has visto esa variedad antes en el país!
+                    </li>
+                    <li>Y por último lo favorito de todos los niños, nuestros <strong>¡ponies</strong> y <strong> mini horses</strong>!</li>
                 </div>
                 </p>
             </div>
@@ -232,7 +229,7 @@ $this->extend('plantilla/layout');
             <div class="col-xl-6 col-lg-10">
                 <div class="section-title text-center mb-60">
                     <span class="sub-title">JD Dominican Farm</span>
-                    <h2>Creando recuerdos que duran para siempre</h2>
+                    <h2>Creando recuerdos que duren para siempre</h2>
                 </div>
             </div>
         </div>

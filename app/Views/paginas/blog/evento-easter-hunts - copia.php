@@ -18,18 +18,18 @@ $this->extend('plantilla/layout');
 <section class="page-banner bg_cover position-relative z-1" style="background-image: 
             url(<?php echo base_url() ?>assets-farm/images/bg/espacio-familiar-granja-en-moca-1440x520.jpg);">
     <div class="brand-card text-center">
-        <img src="<?php echo base_url() ?>assets-farm/images/icon/aves-granja-dominican-farm.png" alt="evento huevos de pascua">
-        <h4><a href="#"> Más Información</a></h4>
+        <img src="<?php echo base_url() ?>assets-farm/images/icon/aves-granja-dominican-farm.png" alt="icon">
+        <h4>Eventos</h4>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-title">
-                    <h1>Easter Hunt 2025</h1>
-                    <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"
-                                    class="main-btn btn-yellow">Comprar Entradas</a>
-                            </div>
+                    <h1>Easter Egg Hunt</h1>
+                    <ul class="breadcrumbs-link">
+                        <li><a href="<?php echo base_url() ?>">Inicio</a></li>
+                        <li class="active">Eventos</li>
+                    </ul>
                 </div>
             </div>
         </div>
