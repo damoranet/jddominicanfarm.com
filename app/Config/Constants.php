@@ -15,6 +15,11 @@
  */
 defined('APP_NAMESPACE') || define('APP_NAMESPACE', 'App');
 
+define('COPY_INICIO', '2021 - ');
+define('COPY_FIN', ' © Damoranet');
+
+define('VERSION', '22.12.21'); // PRODUCCION
+
 /*
  | --------------------------------------------------------------------------
  | Composer Path
