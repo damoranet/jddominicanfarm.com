@@ -22,9 +22,10 @@ $this->extend('plantilla/layout');
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-title">
-                    <h1>Easter Hunt 2025 JD</h1>
+                    <h1>JD Dominican Farm</h1>
+                    <h2 class="texto-blanco" data-animation="fadeInDown" data-delay=".4s">Easter Hunt 2025</h2>
                     <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"
+                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"
                                     class="main-btn btn-yellow">Comprar Entradas</a>
                             </div>
                 </div>
@@ -45,11 +46,11 @@ $this->extend('plantilla/layout');
                         </div>
                         <div class="post-content">
                             <div id="informacion" class="entry-content">
-                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" class="cat-btn">Evento Caza de Pascua</a>
+                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank" class="cat-btn">Evento Caza de Pascua</a>
                                 <h2 class="title">Easter Hunt </h2>
                                 <div class="post-meta">
                                     <ul>
-                                        <li><span><i class="far fa-calendar-alt"></i><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"> 29-30 de marzo, 5-6 y 7-8 de abril
+                                        <li><span><i class="far fa-calendar-alt"></i><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"> 29-30 de marzo, 5-6 y 7-8 de abril
                                         </a></span></li>
                                     </ul>
                                 </div>
@@ -102,11 +103,11 @@ $this->extend('plantilla/layout');
                                 <li>✔️Fotos con personajes </li>
                                 <li>✔️Interacción con animales  </li>
                              </ul>
-                             <p><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"><strong>Reserva tu lugar ahora</strong></a> y no te pierdas esta increíble experiencia en familia.
+                             <p><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"><strong>Reserva tu lugar ahora</strong></a> y no te pierdas esta increíble experiencia en familia.
                             <br><strong>Para más información</strong>:  WhatsApp +1 (849) 439-6867 <br> 
                             ¡Nos vemos en la granja <strong> JD Dominican Farm</strong> para celebrar la Pascua juntos!. 🐰🌸
                             <div class="button-box text-center wow fadeInUp">
-                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" 
+                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"
                     class="main-btn bordered-btn bordered-yellow">Comprar Entrada Easter Hunt</a></div> </p>  
                         </div>
                         

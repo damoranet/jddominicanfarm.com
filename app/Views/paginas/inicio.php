@@ -49,7 +49,7 @@ $this->extend('plantilla/layout');
                             <h2 data-animation="fadeInUp" data-delay=".5s">El lugar ideal para compartir en familia</h2>
                             <span class="tag-line" data-animation="fadeInDown" data-delay=".4s">JD Dominican Farm</span>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="https://jddominicanfarm.com/contacto ?>"
+                                <a href="<?php echo base_url() .'contacto' ?>"
                                     class="main-btn btn-yellow">Contáctanos</a>
                             </div>
                         </div>
@@ -68,7 +68,7 @@ $this->extend('plantilla/layout');
                             <h2 data-animation="fadeInUp" data-delay=".5s">Atracción turística en Moca</h2>
                             <span class="tag-line" data-animation="fadeInDown" data-delay=".4s">Granja Dominicana</span>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="https://jddominicanfarm.com/eventos ?>"
+                                <a href="<?php echo base_url() .'eventos' ?>"
                                     class="main-btn btn-yellow">Nuestros eventos</a>
                             </div>
                         </div>

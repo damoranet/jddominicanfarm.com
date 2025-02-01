@@ -25,7 +25,8 @@ $this->extend('plantilla/layout');
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-title">
-                    <h1>Actividades Para Toda la Familia</h1>
+                    <h1>JD Dominican Farm</h1>
+                    <h2 class="texto-blanco" data-animation="fadeInDown" data-delay=".4s">Actividades para toda la familia</h2>                    
                     <ul class="breadcrumbs-link">
                         <li><a href="<?php echo base_url() ?>">Inicio</a></li>
                         <li class="active">Eventos</li>
@@ -104,7 +105,7 @@ $this->extend('plantilla/layout');
 
             <div class="col-lg-12">
                 <div class="button-box text-center wow fadeInUp">
-                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" 
+                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"
                     class="main-btn bordered-btn bordered-yellow">Comprar Entrada Evento Easter Hunt 2025</a>
                 </div>
             </div>

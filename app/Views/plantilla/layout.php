@@ -128,7 +128,7 @@
                                 <span><i class="far fa-phone"></i><a href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
                             <div class="menu-button">
-                                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" class="main-btn btn-yellow">Entradas</a>
+                                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank" class="main-btn btn-yellow">Entradas</a>
                                 </div>
                             <div class="navbar-toggler">
                                 <span></span>
@@ -236,7 +236,7 @@
                                 <li class="post-item">
                                     <img src="<?php echo base_url() ?>assets-farm/images/widget/donde-llevar-mis-hijos-moca-jdfarm.jpg" alt="que hacer con niños en moca">
                                     <div class="post-title-date">
-                                        <h3 class="Que hacer en moca con niños"><a href="https://jddominicanfarm.com/blog/evento-easter-hunts ?>">Easter Hunts</a></h3>
+                                        <h3 class="Que hacer en moca con niños"><a href="<?php echo base_url() . 'blog/evento-easter-hunts'?>">Easter Hunts</a></h3>
                                     </div>
                                 </li>
                             </ul>
