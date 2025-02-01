@@ -57,7 +57,7 @@ $this->extend('plantilla/layout');
                                 </div>
                                 <div class="info">
                                     <h5>Dirección</h5>
-                                    <p>Cacique abajo - Moca<br>
+                                    <p>Cacique abajo, Moca<br>
                                         (Rep. Dominicana)</p>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ $this->extend('plantilla/layout');
                                 </div>
                                 <div class="info">
                                     <h5>Email</h5>
-                                    <p><a href="mailto:info@jddominicanfarm.com">info@jddominicanfarm.com</a></p>
+                                    <p><a href="mailto:info@jddominicanfarm.com">Jddominicanfarm@gmail.com</a></p>
                                     <p><a href="mailto:jddominicanfarm.com"></a></p>
                                 </div>
                             </div>

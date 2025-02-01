@@ -25,7 +25,7 @@ $this->extend('plantilla/layout');
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-title">
-                    <h1>Actividades <br> <br>Para toda la familia</h1>
+                    <h1>Actividades Para Toda la Familia</h1>
                     <ul class="breadcrumbs-link">
                         <li><a href="<?php echo base_url() ?>">Inicio</a></li>
                         <li class="active">Eventos</li>
@@ -56,10 +56,11 @@ $this->extend('plantilla/layout');
                     </div>
                     <div class="entry-content bg-white">
                         <a href="<?php echo base_url() ?>blog/evento-easter-hunts" class="cat-btn">Easter Hunts 2025</a>
-                        <h3 class="title">Búsqueda de huevos de pascua</h3>
+                        <h3 class="title"><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank" rel="noopener noreferrer">Entradas disponibles</a>
+                        </h3>
                         <div class="post-meta">
                             <ul>
-                                <li><span><i class="far fa-calendar-alt"></i>29-30 (marzo) 5-6, 12-13 (abril)</span>
+                                <li><span><i class="far fa-calendar-alt"></i>29-30 de marzo y 5-6, 12-13 de abril</span>
                                 </li>
                             </ul>
                         </div>

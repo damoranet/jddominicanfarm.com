@@ -161,7 +161,7 @@
                             </div>
                             <div class="text">
                                 <h5>Dirección</h5>
-                                <h6><a href="https://goo.gl/maps/gMDqpdixVyqNdULR9" target="_blank">Cacique Abajo - Moca (República Dominicana)</a></h6>
+                                <h6><a href="https://goo.gl/maps/gMDqpdixVyqNdULR9" target="_blank">Cacique Abajo, Moca Rep Dom</a></h6>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@
                             </div>
                             <div class="text">
                                 <h5>Email</h5>
-                                <h6><a href="mailto:info@jddominicanfarm.com">info@jddominicanfarm.com</a></h6>
+                                <h6><a href="mailto:Jddominicanfarm@gmail.com">Jddominicanfarm@gmail.com</a></h6>
                             </div>
                         </div>
                     </div>
@@ -236,7 +236,7 @@
                                 <li class="post-item">
                                     <img src="<?php echo base_url() ?>assets-farm/images/widget/donde-llevar-mis-hijos-moca-jdfarm.jpg" alt="que hacer con niños en moca">
                                     <div class="post-title-date">
-                                        <h3 class="Que hacer en moca con niños"><a href="<?php echo base_url() . 'eventos' ?>">Easter Hunts</a></h3>
+                                        <h3 class="Que hacer en moca con niños"><a href="https://jddominicanfarm.com/blog/evento-easter-hunts ?>">Easter Hunts</a></h3>
                                     </div>
                                 </li>
                             </ul>

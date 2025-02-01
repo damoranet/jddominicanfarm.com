@@ -17,15 +17,12 @@ $this->extend('plantilla/layout');
 <!--====== Start page-banner section ======-->
 <section class="page-banner bg_cover position-relative z-1" style="background-image: 
             url(<?php echo base_url() ?>assets-farm/images/bg/espacio-familiar-granja-en-moca-1440x520.jpg);">
-    <div class="brand-card text-center">
-        <img src="<?php echo base_url() ?>assets-farm/images/icon/aves-granja-dominican-farm.png" alt="evento huevos de pascua">
-        <h4><a href="#informacion">Más Información</a></h4>
-    </div>
+  
     <div class="container">
         <div class="row">
             <div class="col-lg-10">
                 <div class="page-title">
-                    <h1>Easter Hunt 2025</h1>
+                    <h1>Easter Hunt 2025 JD</h1>
                     <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
                                 <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"
                                     class="main-btn btn-yellow">Comprar Entradas</a>
@@ -43,63 +40,80 @@ $this->extend('plantilla/layout');
                 <div class="blog-details-wrapper mb-40 wow fadeInUp">
                     <div class="blog-post-item">
                         <div class="post-thumbnail">
-                            <img src="<?php echo base_url() ?>assets-farm/images/eventos/poster-evento-easter-egg-2023-770x505.jpg"
+                            <img src="<?php echo base_url() ?>assets-farm/images/eventos/actividad-pascua-ninos.jpg"
                                 alt="Blog Image">
                         </div>
                         <div class="post-content">
                             <div id="informacion" class="entry-content">
-                                <a href="#" class="cat-btn">Easter Egg Hunt</a>
-                                <h2 class="title">Búsqueda de huevos de Pascua</h2>
+                                <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" class="cat-btn">Evento Caza de Pascua</a>
+                                <h2 class="title">Easter Hunt </h2>
                                 <div class="post-meta">
                                     <ul>
-                                        <li><span><i class="far fa-calendar-alt"></i><a href="#"> 18 - 19 y 25 - 26
-                                                    de Marzo 2023 </a></span></li>
+                                        <li><span><i class="far fa-calendar-alt"></i><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"> 29-30 de marzo, 5-6 y 7-8 de abril
+                                        </a></span></li>
                                     </ul>
                                 </div>
                             </div>
-                            <p>La búsqueda de huevos de Pascua (Easter Egg Hunt) es una actividad tradicional que se
-                                realiza durante la celebración de la Pascua.
-                                Consiste en esconder huevos de Pascua en un lugar determinado, generalmente al aire
-                                libre, para que los niños los encuentren.
-                            </p>
-                            <p>
-                                En <strong>JD Dominican</strong> <strong>Farm</strong> comenzaremos con dos tandas
-                                para la recogida de huevos de Pascua, desde la <strong>12:00pm</strong> a
-                                <strong>2:00pm</strong>
-                                y las <strong>4:00pm </strong> a <strong>6:00pm</strong>.
-                            </p>
-                            <p>La recolección de huevos será organizada por grupos de edades, los niños mayores de
-                                12 años no participan.
-                            </p>
-                            <p>El precio de la <strong>entrada</strong> para niños de <strong>3 a 12 </strong> años
-                                es de <strong>$550</strong>pesos e incluye:
-                            </p>
-                            <li>Bolsa para la recolección de huevos</li>
-                            <li>Acceso al laberinto de recolección de huevos de pascua </li>
-                            <li>Fotos con el conejo de pascua y otros personales</li>
-                            <li>Participación en sorteo</li>
-                            <li>Interacciones con animales</li>
-                            <li>Muchas sorpresas más</li>
-                            <br>
-                            <p>Los<strong> niños</strong> a partir de <strong>12
-                                    años</strong><strong>pagarán $300</strong> pesos al
-                                <strong>igual</strong> que
-                                los <strong>adultos</strong> y tendrán acceso a:
-                            </p>
-                            <li>Entrada a la granja</li>
-                            <li>Tour guiado</li>
-                            <li>Fotos con personajes</li>
-                            <li> Interacciones con animales</li>
-                            <br>
-                            <p>
-                                La Pascua es una época especial para mucha gente, y aquí en JD Dominican
-                                Farm, podemos garantizar una experiencia agradable tanto para
-                                los niños como para los adultos. ¡Es una forma estupenda de divertise y
-                                celebrarlo!.
-                            </p>
+                            <p>¡Vive la magia de la Pascua con nosotros en <strong>JD Dominican Farm!. </strong> Hemos preparado una experiencia única para que los más pequeños disfruten 
+                            de la tradicional búsqueda de huevos de Pascua en nuestra granja, un entorno lleno de diversión, aventura e interacción con la naturaleza.</p>
+                            <p>Easter Hunt <strong>(búsqueda de huevos de Pascua)</strong> es una actividad tradicional y divertida ideal para niños que realizamos en JD Dominican Farm durante
+                             la celebración de Pascua. Consiste en esconder huevos de Pascua en un lugar determinado de nuestra granja, para que los niños los encuentren.</p>
+                              <h4>Fecha del evento:</h4>
+                             <ul>
+                                <li>📍 Sábado 29 y Domingo 30 de marzo</li>
+                                <li>📍 Sábado 5 y Domingo 6 de abril</li>
+                                <li>📍 Sábado 12 y Domingo 13 de abril</li>
+                             </ul>
+                             <h4> Horarios:</h4>
+                             <ul>
+                                <li>🔹 <strong>Tanda 1:</strong> 1:00 p.m. - 3:00 p.m.</li>
+                                <li>🔹 <strong>Tanda 2:</strong> 4:00 p.m. - 6:00 p.m.</li>
+                             </ul>
+                             <p>Tandas para la búsqueda y recogida de huevos de pascuade en JD Dominican Farm.</p>
+                             <h4>Importante:</h4>
+                             <ul>
+                                <li>- La recolección de huevos estará organizada por grupos de edades.</li>
+                                <li>- <strong>Los niños mayores de 12 años no participan.</strong></li>
+                                <li>- Los niños con <strong>necesidades especiales</strong> pueden recibir apoyo para disfrutar la experiencia.</li>
+                             </ul>
+                             <h4>Costo de entrada</h4>
+                             <ul>
+                                <li>💰 Niños participantes: <strong> RD$650.0</strong></li>
+                                <li>💰 Adultos y niños NO participantes: <strong>RD$350.00</strong> </li>
+                                <li>💰 Niños menores de 4 años que no participen: <strong>¡Entrada gratuita!</strong> </li>
+                             </ul>
+                             <p><strong>Favor de cumplir con el horario de llegada, según la tanda escogida.</strong></p>
+                             <h4> Qué incluye la actividad de Easter Hunt</h4>
+                             <ul>
+                                <li>✔️ Bolsa para la recolección de huevos</li>
+                                <li>✔️ Decoración de ornamentos alusivos a Easter</li>
+                                <li>✔️ Acceso al laberinto de búsqueda de huevos </li>
+                                <li>✔️ Pinta caritas</li>
+                                <li>✔️ Fotos con el conejo de Pascua y personajes especiales </li>
+                                <li>✔️ Participación en sorteo</li>
+                                <li>✔️ Interacción con animales de la granja </li>
+                                <li>✔️ Búsqueda de huevos dorados</li>
+                                <li>✔️ Show de animación</li>
+                             </ul>
+                             <h4>Actividades para visitantes NO participantes</h4>
+                             <ul>
+                                <li>✔️Entrada a la granja</li>
+                                <li>✔️Tour guiado </li>
+                                <li>✔️Fotos con personajes </li>
+                                <li>✔️Interacción con animales  </li>
+                             </ul>
+                             <p><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII"><strong>Reserva tu lugar ahora</strong></a> y no te pierdas esta increíble experiencia en familia.
+                            <br><strong>Para más información</strong>:  WhatsApp +1 (849) 439-6867 <br> 
+                            ¡Nos vemos en la granja <strong> JD Dominican Farm</strong> para celebrar la Pascua juntos!. 🐰🌸
+                            <div class="button-box text-center wow fadeInUp">
+                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" 
+                    class="main-btn bordered-btn bordered-yellow">Comprar Entrada Easter Hunt</a></div> </p>  
                         </div>
+                        
                         <div class="author-thumb">
                         </div>
+                        <p></p>
+                        
                         <div class="post-navigation pb-30">
                             <div class="row justify-content-between">
                                 <div class="col-xl-6 col-lg-12 col-md-6">
@@ -120,8 +134,8 @@ $this->extend('plantilla/layout');
                                 <i class="far fa-phone"></i>
                             </div>
                             <div class="info">
-                                <h4><a href="tel:+18494396867">+1 (849) 439 6867</a></h4>
-                                <h5><a href="mailto:info@jddominicanfarm.com">info@jddominicanfarm.com</a></h5>
+                                <h4><a href="tel:+18494396867">+ 1 (849) 439 6867</a></h4>
+                                <h5><a href="mailto:info@jddominicanfarm.com">Jddominicanfarm@gmail.com</a></h5>
                                 <a href="<?php echo base_url() . 'contacto' ?>" class="main-btn bordered-btn bordered-black">Contáctanos</a>
                             </div>
                         </div>

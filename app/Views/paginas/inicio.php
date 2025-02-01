@@ -29,9 +29,10 @@ $this->extend('plantilla/layout');
                             <h1 data-animation="fadeInUp" data-delay=".5s">Granja en Moca</h1>
                             <h2 data-animation="fadeInDown" data-delay=".4s">Espacio familiar con sana diversión</h2>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="<?php echo base_url() . 'experiencia' ?>"
-                                    class="main-btn btn-yellow">Experiencia</a>
+                                <a href="http://localhost/jddominicanfarm.com/eventos"
+                                    class="main-btn btn-yellow">Actividades</a>
                             </div>
+                          
                         </div>
                     </div>
                 </div>
@@ -48,8 +49,8 @@ $this->extend('plantilla/layout');
                             <h2 data-animation="fadeInUp" data-delay=".5s">El lugar ideal para compartir en familia</h2>
                             <span class="tag-line" data-animation="fadeInDown" data-delay=".4s">JD Dominican Farm</span>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="<?php echo base_url() . 'experiencia' ?>"
-                                    class="main-btn btn-yellow">Experiencia</a>
+                                <a href="https://jddominicanfarm.com/contacto ?>"
+                                    class="main-btn btn-yellow">Contáctanos</a>
                             </div>
                         </div>
                     </div>
@@ -67,8 +68,8 @@ $this->extend('plantilla/layout');
                             <h2 data-animation="fadeInUp" data-delay=".5s">Atracción turística en Moca</h2>
                             <span class="tag-line" data-animation="fadeInDown" data-delay=".4s">Granja Dominicana</span>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="<?php echo base_url() . 'experiencia' ?>"
-                                    class="main-btn btn-yellow">Experiencia</a>
+                                <a href="https://jddominicanfarm.com/eventos ?>"
+                                    class="main-btn btn-yellow">Nuestros eventos</a>
                             </div>
                         </div>
                     </div>
