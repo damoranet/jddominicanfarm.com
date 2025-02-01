@@ -29,7 +29,7 @@ $this->extend('plantilla/layout');
                             <h1 data-animation="fadeInUp" data-delay=".5s">Granja en Moca</h1>
                             <h2 data-animation="fadeInDown" data-delay=".4s">Espacio familiar con sana diversión</h2>
                             <div class="hero-button pt-20" data-animation="fadeInDown" data-delay=".6s">
-                                <a href="http://localhost/jddominicanfarm.com/eventos"
+                                <a href="<?php echo base_url() .'eventos'?>"
                                     class="main-btn btn-yellow">Actividades</a>
                             </div>
                           
