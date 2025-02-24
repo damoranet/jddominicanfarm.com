@@ -57,7 +57,7 @@ $this->extend('plantilla/layout');
                     </div>
                     <div class="entry-content bg-white">
                         <a href="<?php echo base_url() ?>blog/evento-easter-hunts" class="cat-btn">Easter Hunts 2025</a>
-                        <h3 class="title"><a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank" rel="noopener noreferrer">Entradas disponibles</a>
+                        <h3 class="title"><a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank" rel="noopener noreferrer">Entradas disponibles</a>
                         </h3>
                         <div class="post-meta">
                             <ul>
@@ -105,8 +105,8 @@ $this->extend('plantilla/layout');
 
             <div class="col-lg-12">
                 <div class="button-box text-center wow fadeInUp">
-                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank"
-                    class="main-btn bordered-btn bordered-yellow">Comprar Entrada Evento Easter Hunt 2025</a>
+                    <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank"
+                    class="main-btn bordered-btn bordered-yellow">Comprar Entradas Evento Easter Hunt</a>
                 </div>
             </div>
 

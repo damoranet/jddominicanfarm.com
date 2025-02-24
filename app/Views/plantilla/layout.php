@@ -128,7 +128,7 @@
                                 <span><i class="far fa-phone"></i><a href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
                             <div class="menu-button">
-                                    <a href="https://buy.stripe.com/dR6eWe6ZJ5FIcHmbII" target="_blank" class="main-btn btn-yellow">Entradas</a>
+                                    <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank" class="main-btn btn-yellow">Entradas</a>
                                 </div>
                             <div class="navbar-toggler">
                                 <span></span>
