@@ -136,7 +136,7 @@
                                         href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
                             <div class="menu-button">
-                                <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank"
+                                <a href="https://buy.stripe.com/9B67sLc1bgzW7yQ8HI9k401" target="_blank"
                                     class="main-btn btn-yellow">Entradas</a>
                             </div>
                             <div class="navbar-toggler">

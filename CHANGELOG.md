@@ -1,5 +1,16 @@
 # Changelog - JD Dominican Farm
 
+## [20260129b] - 2026-01-29
+
+### Añadido
+- **Inicio**: Agregado subtítulo "Somos un espacio familiar con sana diversión" en la sección de bienvenida.
+- **Desarrollo**: Añadida referencia para configuración local (`localhost`) en `App.php`.
+
+### Cambiado
+- **Versión**: Actualizada constante `VERSION` a `20260129b`.
+- **Eventos**: Actualizados textos y referencias de año a 2026 para eventos "Easter Hunt" y "Viaje Escolar".
+- **Pagos**: Actualizados enlaces de Stripe para la compra de entradas en el menú principal y secciones de eventos.
+
 ## [20260129] - 2026-01-29
 
 ### Añadido

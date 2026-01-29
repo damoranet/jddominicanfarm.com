@@ -273,12 +273,12 @@ $this->extend('plantilla/layout');
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
                 <div class="blog-post-item-two mb-40 wow fadeInDown">
                     <div class="post-thumbnail">
-                        <img src="<?php echo base_url() ?>assets-farm/images/blog/aves-exoticas-granja-jd-moca-rd.jpg"
-                            alt="">
+                        <img src="<?php echo base_url() ?>assets-farm/images/blog/capibaras-granja-jd-farm.jpeg"
+                            alt="Calibara en Dominican Farm, animal exotico y amigable">
                     </div>
                     <div class="entry-content">
-                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Aves exóticas</a>
-                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia"> Las más coquetas del país</a>
+                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Capibaras</a>
+                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia">Tranquilas, dulces y muy sociables</a>
                         </h3>
                         <div class="post-meta">
                         </div>
@@ -288,12 +288,12 @@ $this->extend('plantilla/layout');
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
                 <div class="blog-post-item-two mb-40 wow fadeInUp">
                     <div class="post-thumbnail">
-                        <img src="<?php echo base_url() ?>assets-farm/images/blog/cabras-granja-dominicana-jd-dominican-farm-moca.jpg"
-                            alt="">
+                        <img src="<?php echo base_url() ?>assets-farm/images/blog/faisan-venerado-jd-farm.jpeg"
+                            alt="ave exótica en granja turística de República Dominicana">
                     </div>
                     <div class="entry-content">
-                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Cabras adorables</a>
-                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia"> Sociables y amistosas </a></h3>
+                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Faisán venerado</a>
+                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia">Ave exótica de colores vibrantes</a></h3>
                         <div class="post-meta">
                         </div>
                     </div>
@@ -302,12 +302,12 @@ $this->extend('plantilla/layout');
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
                 <div class="blog-post-item-two mb-40 wow fadeInDown">
                     <div class="post-thumbnail">
-                        <img src="<?php echo base_url() ?>assets-farm/images/blog/conejos-granja-familiar-moca-jd.jpg"
-                            alt="">
+                        <img src="<?php echo base_url() ?>assets-farm/images/blog/mono-capuchino-jd-dominica-farm.jpeg"
+                            alt="Mono capuchino en granja interativa Dominican Farm">
                     </div>
                     <div class="entry-content">
-                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Conejos tiernos</a>
-                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia"> Los más amorosos</a></h3>
+                        <a href="<?php echo base_url() ?>experiencia" class="cat-btn">Mono capuchino</a>
+                        <h3 class="title"><a href="<?php echo base_url() ?>experiencia">Los más juguetones de la granja</a></h3>
                         <div class="post-meta">
                         </div>
                     </div>
@@ -429,9 +429,9 @@ $this->extend('plantilla/layout');
         <div class="row">
             <div class="col-lg-6">
                 <div class="choose-one_img-box p-r mb-40 wow fadeInLeft">
-                    <img src="<?php echo base_url() ?>assets-farm/images/choose/visita-espacio-familiar-con-sana-diversion-moca.jpg"
+                    <img src="<?php echo base_url() ?>assets-farm/images/choose/caballo-jd-dominicanfarm-granja.jpeg"
                         class="choose-img_one" alt="">
-                    <img src="<?php echo base_url() ?>assets-farm/images/choose/lugares-familiares-divertidos-en-moca-granja-jd-dominican.jpg"
+                    <img src="<?php echo base_url() ?>assets-farm/images/choose/espacio-familiar-moca-granja-jdfarm.jpeg"
                         class="choose-img_two" alt="">
                 </div>
             </div>
@@ -439,7 +439,7 @@ $this->extend('plantilla/layout');
                 <div class="choose-one_content-box pl-lg-70 mb-40">
                     <div class="section-title section-title-left mb-40 wow fadeInDown">
                         <span class="sub-title">Puntos a tomar en cuenta</span>
-                        <h3>Somos un espacio Familiar con Sana Diversión</h3>
+                        <h3>Somos un espacio familiar con sana diversión</h3>
                     </div>
                     <div class="choose-item-list wow fadeInUp">
                         <div class="single-choose-item mb-30">

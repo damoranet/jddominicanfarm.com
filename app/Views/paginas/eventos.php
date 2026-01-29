@@ -52,16 +52,16 @@ $this->extend('plantilla/layout');
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
                 <div class="blog-post-item-two mb-40 wow fadeInUp">
                     <div class="post-thumbnail">
-                        <img src="<?php echo base_url() ?>assets-farm/images/eventos/actividades-para-ninos.jpg"
-                            alt="Evento Easter Hunts en JD Dominican Farm">
+                        <img src="<?php echo base_url() ?>assets-farm/images/eventos/actividades-ninos-2026-jd-rd-dominican-farm.jpeg"
+                            alt="Evento para niños - Recogida huevo de pascua 2026 JD Dominican Farm">
                     </div>
                     <div class="entry-content bg-white">
-                        <a href="<?php echo base_url() ?>blog/evento-easter-hunts" class="cat-btn">Easter Hunts 2025</a>
-                        <h3 class="title"><a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank" rel="noopener noreferrer">Entradas disponibles</a>
+                        <a href="<?php echo base_url() ?>blog/evento-easter-hunts" class="cat-btn">Easter Hunts 2026</a>
+                        <h3 class="title"><a href="https://buy.stripe.com/9B67sLc1bgzW7yQ8HI9k401" target="_blank" rel="noopener noreferrer">Entradas disponibles</a>
                         </h3>
                         <div class="post-meta">
                             <ul>
-                                <li><span><i class="far fa-calendar-alt"></i>29-30 de marzo y 5-6, 12-13 de abril</span>
+                                <li><span><i class="far fa-calendar-alt"></i>21-22 y 28-29 de marzo, 4-5 de abril</span>
                                 </li>
                             </ul>
                         </div>
@@ -75,7 +75,7 @@ $this->extend('plantilla/layout');
                             alt="Evento viaje escolar JD Dominican Farm">
                     </div>
                     <div class="entry-content bg-white">
-                        <a href="#" class="cat-btn">Viaje escolar 2025</a>
+                        <a href="#" class="cat-btn">Viaje escolar 2026</a>
                         <h3 class="title">Experiencia escolar en la granja</h3>
                         <div class="post-meta">
                             <ul>
@@ -105,7 +105,7 @@ $this->extend('plantilla/layout');
 
             <div class="col-lg-12">
                 <div class="button-box text-center wow fadeInUp">
-                    <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank"
+                    <a href="https://buy.stripe.com/9B67sLc1bgzW7yQ8HI9k401" target="_blank"
                     class="main-btn bordered-btn bordered-yellow">Comprar Entradas Evento Easter Hunt</a>
                 </div>
             </div>
