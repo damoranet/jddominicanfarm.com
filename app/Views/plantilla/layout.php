@@ -24,7 +24,8 @@
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="<?php echo base_url() ?>theme-orgarium/assets/vendor/bootstrap/css/bootstrap.min.css">
     <!--====== magnific-popup css ======-->
-    <link rel="stylesheet" href="<?php echo base_url() ?>theme-orgarium/assets/vendor/magnific-popup/dist/magnific-popup.css">
+    <link rel="stylesheet"
+        href="<?php echo base_url() ?>theme-orgarium/assets/vendor/magnific-popup/dist/magnific-popup.css">
     <!--====== Slick-popup css ======-->
     <link rel="stylesheet" href="<?php echo base_url() ?>theme-orgarium/assets/vendor/slick/slick.css">
     <!--====== Nice Select css ======-->
@@ -77,10 +78,13 @@
                     </div>
                     <div class="col-xl-6 col-lg-12 col-md-12 col-6">
                         <div class="top-bar-right">
-                            <span class="text"><i class="far fa-clock"></i>Horario : Lun - Dom, 11:00 am - 06:00 pm</span>
+                            <span class="text"><i class="far fa-clock"></i>Horario : Lun - Dom, 11:00 am - 06:00
+                                pm</span>
                             <ul class="social-link">
-                                <li><a href="https://instagram.com/jddominicanfarm?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="https://www.youtube.com/watch?v=UX3Joeiw2T0" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://instagram.com/jddominicanfarm?igshid=YmMyMTA2M2Y="
+                                        target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/watch?v=UX3Joeiw2T0" target="_blank"><i
+                                            class="fab fa-youtube"></i></a></li>
                                 <!--<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>-->
                             </ul>
                         </div>
@@ -93,19 +97,22 @@
             <div class="container-fluid">
                 <div class="primary-menu">
                     <div class="site-branding">
-                        <a href="<?php echo base_url() ?>" class="brand-logo"><img src="<?php echo base_url() ?>assets-farm/images/logo/logo-jd-dominican-farm-599x243.png"
+                        <a href="<?php echo base_url() ?>" class="brand-logo"><img
+                                src="<?php echo base_url() ?>assets-farm/images/logo/logo-jd-dominican-farm-599x243.png"
                                 alt="logo jddominicanfarm"></a>
                     </div>
                     <div class="nav-inner-menu">
                         <div class="nav-menu">
                             <!--=== Mobile Logo ===-->
                             <div class="mobile-logo mb-30 d-block d-xl-none text-center">
-                                <a href="<?php echo base_url() ?>" class="brand-logo"><img src="<?php echo base_url() ?>assets-farm/images/logo/logo-jd-dominican-farm-599x243.png"
+                                <a href="<?php echo base_url() ?>" class="brand-logo"><img
+                                        src="<?php echo base_url() ?>assets-farm/images/logo/logo-jd-dominican-farm-599x243.png"
                                         alt="logo jddominicanfarm"></a>
                             </div>
                             <!--=== Navbar Call Button ===-->
                             <div class="call-button text-center">
-                                <span><i class="far fa-phone"></i><a href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
+                                <span><i class="far fa-phone"></i><a
+                                        href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
                             <!--=== Main Menu ===-->
                             <nav class="main-menu">
@@ -125,11 +132,13 @@
                         <!--=== nav Right Item ===-->
                         <div class="nav-right-item d-flex align-items-center">
                             <div class="call-button">
-                                <span><i class="far fa-phone"></i><a href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
+                                <span><i class="far fa-phone"></i><a
+                                        href="tel:+1(849)439-6867">+1(849)439-6867</a></span>
                             </div>
                             <div class="menu-button">
-                                    <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank" class="main-btn btn-yellow">Entradas</a>
-                                </div>
+                                <a href="https://buy.stripe.com/aEU4hZ6u13wH0oMbII" target="_blank"
+                                    class="main-btn btn-yellow">Entradas</a>
+                            </div>
                             <div class="navbar-toggler">
                                 <span></span>
                                 <span></span>
@@ -161,7 +170,8 @@
                             </div>
                             <div class="text">
                                 <h5>Dirección</h5>
-                                <h6><a href="https://goo.gl/maps/gMDqpdixVyqNdULR9" target="_blank">Cacique Abajo, Moca Rep Dom</a></h6>
+                                <h6><a href="https://goo.gl/maps/gMDqpdixVyqNdULR9" target="_blank">Cacique Abajo, Moca
+                                        Rep Dom</a></h6>
                             </div>
                         </div>
                     </div>
@@ -195,13 +205,17 @@
                         <div class="footer-widget about-widget mb-40 wow fadeInDown">
                             <h4 class="widget-title">En nuestra Granja</h4>
                             <div class="footer-about-content">
-                                <p>Promovemos la importancia del cuidado de los animales, enseñamos sobre su crianza y reproducción.
-                                    Y a la vez fomentamos el contacto con la naturaleza, los valores familiares y la vida en el campo.</p>
+                                <p>Promovemos la importancia del cuidado de los animales, enseñamos sobre su crianza y
+                                    reproducción.
+                                    Y a la vez fomentamos el contacto con la naturaleza, los valores familiares y la
+                                    vida en el campo.</p>
                                 <div class="social-box">
                                     <h4 class="mb-15">Siguenos</h4>
                                     <ul class="social-link">
-                                        <li><a href="https://instagram.com/jddominicanfarm?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="https://www.youtube.com/watch?v=UX3Joeiw2T0" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://instagram.com/jddominicanfarm?igshid=YmMyMTA2M2Y="
+                                                target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=UX3Joeiw2T0" target="_blank"><i
+                                                    class="fab fa-youtube"></i></a></li>
                                         <!--<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>-->
                                     </ul>
@@ -228,15 +242,20 @@
                             <h4 class="widget-title">Actividades</h4>
                             <ul class="post-widget-wrap">
                                 <li class="post-item">
-                                    <img src="<?php echo base_url() ?>assets-farm/images/widget/carnaval-granja-dominican-fram-moca.jpg" alt="Actividades para niños en Moca">
+                                    <img src="<?php echo base_url() ?>assets-farm/images/widget/carnaval-granja-dominican-fram-moca.jpg"
+                                        alt="Actividades para niños en Moca">
                                     <div class="post-title-date">
-                                        <h3 class="Las mejores cosas en Moca"><a href="<?php echo base_url() . 'eventos' ?>"> Visita Escolar</a></h3>
+                                        <h3 class="Las mejores cosas en Moca"><a
+                                                href="<?php echo base_url() . 'eventos' ?>"> Visita Escolar</a></h3>
                                     </div>
                                 </li>
                                 <li class="post-item">
-                                    <img src="<?php echo base_url() ?>assets-farm/images/widget/donde-llevar-mis-hijos-moca-jdfarm.jpg" alt="que hacer con niños en moca">
+                                    <img src="<?php echo base_url() ?>assets-farm/images/widget/donde-llevar-mis-hijos-moca-jdfarm.jpg"
+                                        alt="que hacer con niños en moca">
                                     <div class="post-title-date">
-                                        <h3 class="Que hacer en moca con niños"><a href="<?php echo base_url() . 'blog/evento-easter-hunts'?>">Easter Hunts</a></h3>
+                                        <h3 class="Que hacer en moca con niños"><a
+                                                href="<?php echo base_url() . 'blog/evento-easter-hunts' ?>">Easter
+                                                Hunts</a></h3>
                                     </div>
                                 </li>
                             </ul>
@@ -259,10 +278,11 @@
         <div class="footer-copyright">
             <div class="col-lg-12">
                 <div class="copyright-text text-center">
-                    <p>&copy; 2024 JD Dominicam Farm - Moca <br>ver.20250224</p>
+                    <p>&copy; 2024-2026 JD Dominicam Farm - Moca <br>ver.
+                        <?= VERSION ?>
+                    </p>
                 </div>
             </div>
-        </div>
         </div>
     </footer><!--====== End Footer ======-->
     <!--====== back-to-top ======-->
@@ -276,7 +296,8 @@
     <!--====== Slick js ======-->
     <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/slick/slick.min.js"></script>
     <!--====== Magnific js ======-->
-    <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+    <script
+        src="<?php echo base_url() ?>theme-orgarium/assets/vendor/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
     <!--====== Isotope js ======-->
     <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/isotope.min.js"></script>
     <!--====== Imagesloaded js ======-->
@@ -287,7 +308,8 @@
     <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/jquery.waypoints.js"></script>
     <!--====== Number js ======-->
     <!--====== Nice-select js ======-->
-    <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <script
+        src="<?php echo base_url() ?>theme-orgarium/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
     <!--====== jquery UI js ======-->
     <script src="<?php echo base_url() ?>theme-orgarium/assets/vendor/jquery-ui/jquery-ui.min.js"></script>
     <!--====== WOW js ======-->

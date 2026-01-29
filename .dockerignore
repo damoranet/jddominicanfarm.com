@@ -1,0 +1,17 @@
+.git
+.dockerignore
+Dockerfile
+node_modules
+vendor
+tests
+writable/cache/*
+writable/logs/*
+writable/debugbar/*
+.env
+.ebextensions
+.platform
+deploy-ecr.ps1
+README*.md
+phpunit.xml.dist
+spark
+preload.php

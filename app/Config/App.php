@@ -11,9 +11,15 @@ class App extends BaseConfig
      * Base Site URL
      * --------------------------------------------------------------------------
      */
-    //public string $baseURL = 'http://localhost/jddominicanfarm.com/';
-    //public string $baseURL = 'http://jddominicanfarm.us-east-1.elasticbeanstalk.com/';
-    public string $baseURL = 'https://jddominicanfarm.com/';    
+    public string $baseURL = 'https://jddominicanfarm.com/';
+
+    public function __construct()
+    {
+        parent::__construct();
+        if (isset($_ENV['baseURL'])) {
+            $this->baseURL = $_ENV['baseURL'];
+        }
+    }
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
