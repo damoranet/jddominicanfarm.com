@@ -18,7 +18,7 @@ defined('APP_NAMESPACE') || define('APP_NAMESPACE', 'App');
 define('COPY_INICIO', '2021 - ');
 define('COPY_FIN', ' © Damoranet');
 
-define('VERSION', '20260129b'); // PRODUCCION
+define('VERSION', '20260130'); // PRODUCCION
 
 /*
  | --------------------------------------------------------------------------

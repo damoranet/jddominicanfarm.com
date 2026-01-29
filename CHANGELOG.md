@@ -1,5 +1,10 @@
 # Changelog - JD Dominican Farm
 
+## [20260130] - 2026-01-30
+
+### Cambiado
+- **Versión**: Actualizada constante `VERSION` a `20260130` para nuevo despliegue en ECR.
+
 ## [20260129b] - 2026-01-29
 
 ### Añadido
