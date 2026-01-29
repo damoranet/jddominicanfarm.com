@@ -12,7 +12,8 @@ class App extends BaseConfig
      * --------------------------------------------------------------------------
      */
     public string $baseURL = 'https://jddominicanfarm.com/';
-    //public string $baseURL = 'http://localhost/jddominicanfarm.com/';    
+    //public string $baseURL = 'http://localhost/jddominicanfarm.com/';
+    //public string $baseURL = 'http://localhost/WEBS-CLIENTES-DAMORANET/jddominicanfarm.com/';
 
     public function __construct()
     {
